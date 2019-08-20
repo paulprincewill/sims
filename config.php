@@ -4,9 +4,8 @@
 	define("DB_HOST", "localhost");
 	define("DB_USER", "root");
 	define("DB_PASSWORD", "");
-	define("DB_NAME", "unicus_campus");
-	define("USER", "phone_number");
-	define("GENERAL_TITLE", "Unicus Campus");
+	define("DB_NAME", "sims");
+	define("GENERAL_TITLE", "Student Information Management System");
 	
 	// Define URL
 	define("ROOT_PATH", "unicus/");

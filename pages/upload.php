@@ -8,4 +8,5 @@
 
 	loadHeader("main");
 	loadUI("main");
+	loadUI("students");
 	loadFooter("main");

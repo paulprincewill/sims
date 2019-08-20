@@ -1,4 +1,4 @@
-<form>
+<form action="app/upload/main" dd_submit="yes" dd_bindResult="#students">
 	
 
 	<section>
@@ -16,7 +16,7 @@
 	</section>
 
 	<input type="text" name="department" placeholder="department">
-	  <select>
+	  <select name="gender">
 	  
 	  	 <option>
 	  	 male
