@@ -9,6 +9,5 @@
 </head>
 <body>
 	<header>
-        <h3> This is your header </h3>
     </header>
 	<main id="page_<?php echo $page_link?>">
